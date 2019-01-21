@@ -1,0 +1,13 @@
+*****
+This is an example
+*****
+in which i will use
+*****
+and demostrate how to
+*****
+split a file into
+*****
+many of them
+*****
+by using Python
+*****
